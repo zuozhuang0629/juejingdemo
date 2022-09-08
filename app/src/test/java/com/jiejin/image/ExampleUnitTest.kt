@@ -1,4 +1,4 @@
-package com.juejin.myapplication
+package com.jiejin.image
 
 import org.junit.Test
 

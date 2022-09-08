@@ -1,4 +1,4 @@
-package com.juejin.myapplication.ui.theme
+package com.jiejin.image.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
